@@ -1,0 +1,22 @@
+Packages used for Backend 
+npm init -y 
+npm i express
+npm i -D nodemon concurrently 
+concurrently : for run both backend and front 
+npm i dotenv
+mongoose
+npm i bcryptjs
+express-async-handler
+jsonwebtoken
+-----------------------------------------------------
+packages for handle files
+multer ===> middleware for upload file in backend server 
+----------------------------------------------------
+
+
+
+
+
+
+
+
